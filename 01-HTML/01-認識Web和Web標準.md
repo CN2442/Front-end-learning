@@ -13,7 +13,8 @@
 ### 瀏覽器 (3)
 
 - 六大瀏覽器
-瀏覽器是網頁運行的平台，常見的瀏覽器有－Chrome、Safari、Firefox、IE、Edge、Opera。
+
+> 瀏覽器是網頁運行的平台，常見的瀏覽器有－Chrome、Safari、Firefox、IE、Edge、Opera。
 
 ![](images/browser.png)
 
